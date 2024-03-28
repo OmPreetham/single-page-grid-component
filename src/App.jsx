@@ -1,4 +1,4 @@
-import SinglePageGrid from './assets/components/SinglePageGrid'
+import SinglePageGrid from './components/SinglePageGrid'
 
 const App = () => {
   return (
